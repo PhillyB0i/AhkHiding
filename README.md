@@ -1,0 +1,2 @@
+# AhkHiding
+Hides AHK
